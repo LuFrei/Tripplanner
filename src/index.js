@@ -14,7 +14,8 @@ const map = new mapboxgl.Map({
 });
 
 
-// //adding markers
+
+//adding markers
 // const markerDomEl = document.createElement("div"); // Create a new, detached DIV
 // markerDomEl.style.width = "32px";
 // markerDomEl.style.height = "39px";
